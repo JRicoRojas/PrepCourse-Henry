@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo dos de henry
+Juan Mateo Rico Rojas  
+Este proyexto es una prueba de como clonar repositorios
